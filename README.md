@@ -21,15 +21,32 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" height="60" alt="Java"></a><br>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java"></a><br>
       Java
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://image.pngaaa.com/238/5473238-middle.png" width="60" height="60" alt="SPRING"></a><br>
-      SPRING
+      Spring
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="48" height="48" alt="MySQL"></a><br>
+      MySQL
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="48" height="48" alt="Node.js"></a><br>
+      Node.js
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="48" height="48" alt="MongoDB"></a><br>
+      MongoDB
+    </td>	  
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="48" height="48" alt="C++"></a><br>
+      C++
+    </td>
+	  
+    <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="48" height="48" alt="C#"></a><br>
       C#&nbsp;(Core)
     </td>
@@ -59,10 +76,7 @@ Here are some ideas to get you started:
       <a href="#macropower-tech"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker"></a><br>
       Docker
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="48" height="48" alt="MySQL"></a><br>
-      MySQL
-    </td>
+
   </tr>
 </table>
 
