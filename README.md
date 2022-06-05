@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
