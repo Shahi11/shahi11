@@ -6,8 +6,19 @@
 ### Hi there 👋 I am [Rahul Shahi]
 
 
-<a href="https://ibb.co/rxPRBXs"><img src="https://i.ibb.co/k4nsLP1/2728527.jpg" alt="2728527" width="1200" height="450" border="0"></a>
+<a href="https://ibb.co/rxPRBXs"><img src="https://i.ibb.co/k4nsLP1/2728527.jpg" alt="2728527" width="1400" height="500" border="0"></a>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+
+## Let's Connect
+<p align="left">
+	<a href="mailto:rahulshahi.1995@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Shahi11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rahul-shahi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/rahul.shahi.1804/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/irahulshahi"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UCVYOGhPwVY9JOwty1940XvA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 
 
 - 🔭 I’m currently working on ...
@@ -120,15 +131,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 <img src="https://github-readme-stats.vercel.app/api?username=shahi11&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-## Let's Connect
-<p align="left">
-	<a href="mailto:rahulshahi.1995@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Shahi11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rahul-shahi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/rahul.shahi.1804/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/irahulshahi"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCVYOGhPwVY9JOwty1940XvA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahi11">
