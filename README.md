@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and frameworks I have experience in:
 
 <table>
   <tr>
@@ -80,6 +80,36 @@ Here are some ideas to get you started:
       Docker
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="48" height="48" alt="HTML5"></a><br>
+      HTML5
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="48" height="48" alt="CSS"></a><br>
+      CSS
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://www.clipartmax.com/png/middle/279-2792293_rest-api-icon-api-icon.png" width="48" height="48" alt="RESTful"></a><br>
+      RESTful
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" width="48" height="48" alt="Maven"></a><br>
+      Maven
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/2048px-Apache_kafka-icon.svg.png" width="48" height="48" alt="Kafka"></a><br>
+      Kafka
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" width="48" height="48" alt="RabbitMQ"></a><br>
+      RabbitMQ
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://e7.pngegg.com/pngimages/534/663/png-clipart-net-framework-software-framework-c-microsoft-asp-net-microsoft-blue-angle.png" width="48" height="48" alt="Asp.net"></a><br>
+      Asp.net
+    </td>	  
+  </tr>	  
 </table>
 
 
