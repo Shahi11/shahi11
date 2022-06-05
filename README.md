@@ -21,75 +21,48 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-   <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java"></a><br>
+      Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
+      <a href="#macropower-tech"><img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="48" height="48" alt="C#"></a><br>
+      C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-	  
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://flyclipart.com/thumb2/javascript-map-javascript-javascript-icon-with-png-892806.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-	  
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+      <a href="#macropower-tech"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48" alt="Python"></a><br>
+      Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-         <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="48" height="48" alt="TypeScript"></a><br>
+      TypeScript
     </td>
-
-	</tr>  
-	  
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://flyclipart.com/thumb2/javascript-map-javascript-javascript-icon-with-png-892806.png" width="48" height="48" alt="JavaScript"></a><br>
+      JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="React"></a><br>
+      React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="48" height="48" alt="Bootstrap"></a><br>
+      Bootstrap
+    </td>
+  </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker"></a><br>
+      Docker
     </td>
-
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://image.pngaaa.com/238/5473238-middle.png" width="48" height="48" alt="SPRING" />
-      </a>
-      <br>SPRING
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://image.pngaaa.com/238/5473238-middle.png" width="48" height="48" alt="SPRING"></a><br>
+      SPRING
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="48" height="48" alt="MySQL"></a><br>
+      MySQL
     </td>
-
   </tr>
 </table>
 
