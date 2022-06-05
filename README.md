@@ -105,4 +105,4 @@ Here are some ideas to get you started:
 	
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahi11">
