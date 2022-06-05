@@ -10,18 +10,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 During my tenure at Amadeus, I developed functionalities for an Airport Product which includes a Flight Management system, Billing System, Airport Resource handling, Self-check-in Baggage, Biometric passenger check-in, and Critical data computation for operating flights. As a Scrum master, I led a team of 8 in sprint refinements, sprint planning, sprint retrospective, Sprint Demo, and the daily scrum resulting in successful on-time delivery and reflecting my leadership, project, and teamwork skills. My commitment and work quality saw me grow from a software development intern to a senior software developer in the span of 2 years. Along the journey, I picked up the “High Flyer” award twice which is a recognition of exceptional work and given every quarter to just one member in the department.
 
 
-## Let's Connect
-<p align="left">
-	<a href="mailto:rahulshahi.1995@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Shahi11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rahul-shahi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/rahul.shahi.1804/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/irahulshahi"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCVYOGhPwVY9JOwty1940XvA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
-
-
 <h2 align="left" id="macropower-tech">Tech Stack</h2>
 
 > Tools, languages, and frameworks I have experience in:
@@ -122,5 +110,17 @@ During my tenure at Amadeus, I developed functionalities for an Airport Product 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shahi11&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
+
+
+## Let's Connect
+<p align="left">
+	<a href="mailto:rahulshahi.1995@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Shahi11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rahul-shahi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/rahul.shahi.1804/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/irahulshahi"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UCVYOGhPwVY9JOwty1940XvA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahi11">
