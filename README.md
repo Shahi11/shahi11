@@ -3,11 +3,9 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Rahul Shahi]
-
-
 <a href="https://ibb.co/rxPRBXs"><img src="https://i.ibb.co/k4nsLP1/2728527.jpg" alt="2728527" width="1400" height="500" border="0"></a>
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java, Spring, SQL, MERN. I am currently pursuing Master's in Computer Science from the State University of New York at Buffalo with a GPA of 3.7 <a href="https://stars.github.com/">GitHub Star 🌟</a>.  During the summer of 2022 in am working as Full stack software developer inter at Delaget LLC. With 3.5+ years of experience in application design and development, I am seeking to leverage strengths in a Software Engineer capacity for a mutually rewarding experience.
 
 ## Let's Connect
 <p align="left">
