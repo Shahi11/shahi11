@@ -1,7 +1,9 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-
-**Shahi11/shahi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am [Rahul Shahi]
 
 Here are some ideas to get you started:
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Tech Stack</h2>
 
 > Tools, languages, and frameworks I have experience in:
 
@@ -116,7 +118,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=shahi11&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ## Let's Connect
-<p align="center">
+<p align="left">
 	<a href="mailto:rahulshahi.1995@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Shahi11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rahul-shahi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
