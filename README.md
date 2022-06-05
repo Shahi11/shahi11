@@ -21,10 +21,16 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java"></a><br>
+    <td align="center" width="120">
+      <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" height="60" alt="Java"></a><br>
       Java
     </td>
+ <td align="center" width="120">
+      <a href="#macropower-tech"><img src="https://image.pngaaa.com/238/5473238-middle.png" width="60" height="60" alt="SPRING"></a><br>
+      SPRING
+    </td>
+	  
+	  
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="48" height="48" alt="C#"></a><br>
       C#&nbsp;(Core)
@@ -55,10 +61,7 @@ Here are some ideas to get you started:
       <a href="#macropower-tech"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker"></a><br>
       Docker
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://image.pngaaa.com/238/5473238-middle.png" width="48" height="48" alt="SPRING"></a><br>
-      SPRING
-    </td>
+
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="48" height="48" alt="MySQL"></a><br>
       MySQL
