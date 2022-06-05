@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java"></a><br>
       Java
     </td>
