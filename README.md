@@ -5,7 +5,10 @@
 
 ### Hi there 👋 I am [Rahul Shahi]
 
-Here are some ideas to get you started:
+
+<a href="https://ibb.co/rxPRBXs"><img src="https://i.ibb.co/k4nsLP1/2728527.jpg" alt="2728527" border="0"></a>
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
