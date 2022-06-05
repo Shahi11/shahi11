@@ -40,12 +40,11 @@ Here are some ideas to get you started:
     <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="48" height="48" alt="MongoDB"></a><br>
       MongoDB
-    </td>	  
+    </td>
     <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="48" height="48" alt="C++"></a><br>
       C++
     </td>
-	  
     <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="48" height="48" alt="C#"></a><br>
       C#&nbsp;(Core)
@@ -76,7 +75,6 @@ Here are some ideas to get you started:
       <a href="#macropower-tech"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker"></a><br>
       Docker
     </td>
-
   </tr>
 </table>
 
