@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -46,12 +46,14 @@ Here are some ideas to get you started:
       </a>
       <br>TypeScript
     </td>
+	  
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://flyclipart.com/thumb2/javascript-map-javascript-javascript-icon-with-png-892806.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
+	  
     <td align="center" width="96">
       <a href="#macropower-tech" >
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="React" />
