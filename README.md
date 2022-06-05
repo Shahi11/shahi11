@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Shahi11/shahi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
--->
+
