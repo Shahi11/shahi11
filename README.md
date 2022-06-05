@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="images/cpp.svg" width="48" height="48" alt="C#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
